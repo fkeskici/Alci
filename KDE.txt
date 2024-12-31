@@ -10,6 +10,8 @@ plasma-workspace
 sddm
 firefox
 networkmanager
+nvidia
+nvidia-utils
 reflector
 tlp
 bluez
